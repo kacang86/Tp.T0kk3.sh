@@ -15,10 +15,14 @@ trap ctrl_c INT
 ctrl_c() {
 clearecho $red"[#]> (Ctrl + C ) Detected,
 Trying To Exit ... "
-sleep 1echo
-""echo $yellow"[#]> Thank You For Using My Tools ... 
-"sleep 1echo ""echo $white"[#]> Rabbit Cyber Team Was Here ... "
-read enterexit
+sleep 1
+echo ""
+echo $yellow"[#]> Thank You For Using My Tools ... "
+sleep 1
+echo ""
+echo $white"[#]> Erick Gans Eaaa ... "
+read enter
+exit
 }
 ==================================================
 echo $white"Author : Tp.T00k3"
