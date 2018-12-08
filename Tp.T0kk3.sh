@@ -23,7 +23,8 @@ read enterexit
 ==================================================
 echo $white"Author : Tp.T00k3"
 echo $white"Team : Lulz'Sec Indo Team"
-echo $white"Thanks To : Kutu Buku Cyber Network" "=================================================
+echo $white"Thanks To : Kutu Buku Cyber Network"
+==================================================
 echo $yellow" 01) Red Hawk"
 echo $yellow" 02) D-Tect"
 echo $yellow" 03) Top Up Ilegal ML"
