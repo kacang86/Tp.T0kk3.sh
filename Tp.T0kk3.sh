@@ -13,7 +13,8 @@ yellow='\033[33;1m'
 ###################################################
 trap ctrl_c INT
 ctrl_c() {
-clearecho $red"[#]> (Ctrl + C ) Detected,
+clear
+echo $red"[#]> (Ctrl + C ) Detected,
 Trying To Exit ... "
 sleep 1
 echo ""
