@@ -42,7 +42,7 @@ echo $yellow" 09) Youtube Dl"
 echo $yellow" 10) viSQL "
 echo $red" 11) Exit "
 echo $white""
-read -p "[Tp.T0kk3]> " bro;
+read -p " root@ErickGansSangad:~ " bro;
 
 if [ $bro = 1 ] || [ $bro = 01 ]
 then
@@ -73,8 +73,11 @@ then
 clear
 echo $red" TOP UP ILEGAL ML "
 sleep 1
-echo $white " TERTIPU KAMU BANGSAT "
+
+echo $white" TERTIPU KAMU BANGSAT "
+
 echo $red" T E R T I P U "
+
 fi
 
 if [ $bro = 4 ] || [ $bro = 04 ]
@@ -82,8 +85,11 @@ then
 clear
 echo $red" TOP UP ILEGAL FF "
 sleep 1
-echo #white" TERTIPU KAMU BANGSAT "
+
+echo $white" TERTIPU KAMU BANGSAT "
+
 echo $red" T E R T I P U "
+
 fi
 
 if [ $bro = 5 ] || [ $bro = 05 ]
@@ -123,8 +129,11 @@ if [ $bro = 07 ] || [ $bro = 7 ]
 then
 clearecho $red" PULSA GRATIS "
 sleep 1
+
 echo $white" KERJA LAH GOBLOK "
+
 echo $red" T E R T I P U "
+
 fi
 
 if [ $bro = 08 ] || [ $bro = 8 ]
