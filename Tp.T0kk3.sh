@@ -53,7 +53,7 @@ apt update && apt upgrade
 apt install php
 apt install git
 git clone https://github.com/Tuhinshubhra/RED_HAWK
-echo $red" T E R I N S T A L L "
+echo $red" B E R H A S I L_C O K "
 fi
 
 if [ $bro = 2 ] || [ $bro = 02 ]
@@ -65,7 +65,7 @@ apt-get update && apt-get upgrade
 apt-get install git
 apt-get install python2
 git clone https://github.com/shawarkhanethicalhacker/D-TECT
-echo $red" T E R I N S T A L L "
+echo $red" B E R H A S I L_C O K "
 fi
 
 if [ $bro = 3 ] || [ $bro = 03 ]
@@ -109,7 +109,7 @@ wget https://pastebin.com/raw/HnVyQPtR -O
 webdav.py
 chmod 777 webdav.py
 cd ~/
-echo $red" T E R I N S T A L L "
+echo $red" B E R H A S I L_C O K "
 fi
 
 if [ $bro = 06 ] || [ $bro = 6 ]
@@ -119,10 +119,11 @@ echo $red" Installing Metasploit "
 sleep 1
 apt update && apt upgrade
 apt install git
-apt install wgetwgethttps://raw.githubusercontent.com/verluchie/termux-metasploit/master/install.sh
+apt install wget
+wget https://raw.githubusercontent.com/verluchie/termux-metasploit/master/install.sh
 chmod 777 install.sh
 sh install.sh
-echo $red" T E R I N S T A L L "
+echo $red" B E R H A S I L_C O K "
 fi
 
 if [ $bro = 07 ] || [ $bro = 7 ]
@@ -153,7 +154,7 @@ echo " Fix network please wait "
 sleep 1
 echo "nameserver 8.8.8.8" >
 /data/data/com.termux/files/home/termux-ubuntu/ubuntu-fs/etc/$
-echo $red" T E R I N S T A L L "
+echo $red" B E R H A S I L_C O K "
 fi
 
 if [ $bro = 09 ] || [ $bro = 9 ]
@@ -167,7 +168,7 @@ pip3 install mps_youtube
 pip3 install youtube_dl
 apt install mpv
 echo " Untuk menjalankannya ketik "mpsyt" tanpa tanda petik "
-echo $red" T E R I N S T A L L "
+echo $red" B E R H A S I L_C O K "
 fi
 
 if [ $bro = 10 ] || [ $bro = 10 ]
@@ -182,7 +183,7 @@ git clone https://github.com/blackvkng/viSQL.git
 cd ~/viSQL
 chmod 777 viSQL.py
 cd ~/
-echo $red" T E R I N S T A L L "
+echo $red" B E R H A S I L_C O K "
 fi
 
 if [ $bro = 11 ] || [ $bro = 11 ]
